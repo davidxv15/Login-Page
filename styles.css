@@ -1,5 +1,139 @@
 @import url("https://fonts.googleapis.com/css2?family=Caveat&family=Courgette&family=Creepster&family=Fredoka:wght@500&family=Gayathri&family=Lexend+Mega&family=MuseoModerno&family=Nabla&family=Nosifer&family=Pacifico&family=Permanent+Marker&family=Trade+Winds&display=swap");
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Gayathri", sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    width: 100%;
+    padding: 0 10px;
+}
+
+body::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: url(https://sp-images.summitpost.org/178812.jpg?auto=format&fit=max&h=800&ixlib=php-2.1.1&q=35&s=2769a059a86ff5322369de1bd56097aa), #000;
+    background-position: center;
+    background-size: cover;
+}
+
+.wrapper {
+    width: 400px;
+    border-radius: 10px;
+    padding: 30px;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.input-field {
+    position: relative;
+    border-bottom: 2px solid #ccc;
+    margin: 15px 0;
+}
+
+.input-field label {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    color: #fff;
+    font-size: 20px;
+    pointer-events: none;
+    transition: 0.2s ease;
+}
+
+.input-field input {
+    width: 100%;
+    height: 44px;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    color: #fff;
+}
+
+.input-field input:focus ~ label, .input-field input:valid ~ label {
+    font-size: 0.8rem;
+    top: 10px;
+    transform: translateY(-120%);
+}
+
+.forget {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 25px 0 35px 0;
+    color: #fff;
+}
+
+#remember {
+    accent-color: #fff;
+}
+
+.forget label {
+    display: flex;
+    align-items: center;
+}
+
+.forget label p {
+    margin-left: 8px;
+}
+
+.wrapper a {
+    color: #efefef;
+    text-decoration: none;
+}
+
+.wrapper a:hover {
+    text-decoration: underline;
+}
+
+button {
+    background: #fff;
+    color: #000;
+    font-weight: 600;
+    border: none;
+    padding: 12px 20px;
+    cursor: pointer;
+    border-radius: 8px;
+    font-size: 20px;
+    border: 2px solid transparent;
+    transition: 0.5s ease;
+}
+
+button:hover {
+    color: #fff;
+    border-color: #fff;
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.register {
+    text-align: center;
+    margin-top: 30px;
+    color: #fff;
+}
 
 .parallax {
   background: rgb(56, 97, 190);
