@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat&family=Courgette&family=Creepster&family=Fredoka:wght@500&family=Gayathri&family=Lexend+Mega&family=MuseoModerno&family=Nabla&family=Nosifer&family=Pacifico&family=Permanent+Marker&family=Trade+Winds&display=swap");
+
+
+.parallax {
+  background: rgb(56, 97, 190);
+  background-image: linear-gradient(to right top, #e3c782, #e5bb85, #e2b18a, #dba78f, #d1a094, #ce9b97, #ca979b, #c4949e, #c591a5, #c390ae, #bf8fb8, #b690c3);
+
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
