@@ -23,7 +23,7 @@ body::before {
     height: 100%;
     background: url(https://sp-images.summitpost.org/178812.jpg?auto=format&fit=max&h=800&ixlib=php-2.1.1&q=35&s=2769a059a86ff5322369de1bd56097aa), #000;
     background-position: center;
-    background-size: cover;
+    background-size:cover;
 }
 
 .wrapper {
@@ -89,7 +89,7 @@ h2 {
 }
 
 #remember {
-    accent-color: #fff;
+    accent-color: #bd1c87;
 }
 
 .forget label {
