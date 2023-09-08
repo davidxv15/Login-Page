@@ -103,9 +103,7 @@ h2 {
   margin-left: 8px;
 }
 
-.register {
-  
-}
+
 
 .wrapper a {
   color: #efefef;
@@ -114,7 +112,7 @@ h2 {
 
 .wrapper a:hover {
   text-decoration: underline;
-  color:#bd1c87;
+  color:#f966c8;
 }
 
 button {
