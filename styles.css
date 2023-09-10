@@ -35,6 +35,8 @@ body::before {
   border: 1px solid rgba(255, 255, 255, 0.5);
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
+  transform: translateY(-100%);
+  opacity: 0;
 }
 
 form {
