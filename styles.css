@@ -149,7 +149,7 @@ button {
 
 .log_in {
   transform: translateY(3px);
-  color:#891087;
+  /* color:#891087;  */
 }
 
 button:hover {
