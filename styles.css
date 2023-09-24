@@ -166,6 +166,7 @@ button:hover {
   text-align: center;
   margin-top: 30px;
   color: #fff;
+  transform: translateY(22px);
 }
 
 .register a:hover {
