@@ -101,6 +101,7 @@ h2 {
   font-size: 0.8rem;
   top: 10px;
   transform: translateY(-120%);
+  /* these selectors combine to create the shrinking plus elevating text effect, "shelving", if you will ;) */
 }
 
 .forget {
