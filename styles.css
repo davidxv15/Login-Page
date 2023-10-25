@@ -69,7 +69,7 @@ h2 {
 } */
 
 .login-title:hover {
-  color:#f27bff;
+  color: #f27bff;
 }
 
 .input-field {
@@ -179,7 +179,7 @@ button:hover {
 .register a:hover {
   text-align: center;
   margin-top: 30px;
-  color: #e586e5;
+  color: #b147b1;
 }
 
 /* .parallax {
