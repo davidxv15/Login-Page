@@ -83,7 +83,7 @@ h2 {
   top: 50%;
   left: 0;
   transform: translateY(-50%);
-  color: #fff;
+  color:#0fcae3;
   font-size: 20px;
   pointer-events: none;
   transition: 0.2s ease;
