@@ -112,7 +112,7 @@ h2 {
   align-items: center;
   justify-content: space-between;
   margin: 25px 0 35px 0;
-  color:#0fcae3
+  color: #0fcae3;
 }
 
 #remember {
@@ -129,7 +129,7 @@ h2 {
 }
 
 .wrapper a {
-  color: #efefef;
+  color:#0fcae3;
   text-decoration: none;
 }
 
