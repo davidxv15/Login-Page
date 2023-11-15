@@ -61,7 +61,7 @@ form {
 h2 {
   font-size: 2rem;
   margin-bottom: 20px;
-  color:#0fcae3;
+  color: #0fcae3;
 }
 
 /* h2:hover {
@@ -129,7 +129,7 @@ h2 {
 }
 
 .wrapper a {
-  color: rgb(150, 142, 132);
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 
