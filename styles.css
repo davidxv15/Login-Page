@@ -139,8 +139,8 @@ h2 {
 }
 
 button {
-  background:#0fcae3;
-  color:aliceblue;
+  background: aliceblue;
+  color:#0fcae3;
   font-weight: 600;
   padding: 0.1em;
   display: table-cell;
