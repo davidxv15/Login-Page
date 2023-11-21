@@ -140,7 +140,7 @@ h2 {
 
 button {
   background: aliceblue;
-  color:#0fcae3;
+  color: #0fcae3;
   font-weight: 600;
   padding: 0.1em;
   display: table-cell;
@@ -172,8 +172,12 @@ button:hover {
 .register {
   text-align: center;
   margin-top: 30px;
-  color: #fff;
+  color:black;
   transform: translateY(22px);
+}
+
+.registerhere {
+  color: black;
 }
 
 .register a:hover {
