@@ -180,9 +180,11 @@ button:hover {
 a {
   color:#b147b1;
 }
+
 .registerhere {
+  font-size: 22px;
   color:#b147b1;
-  text-shadow: rgb(11, 248, 7) 3px 0 10px;
+  text-shadow:#b147b1 3px 0 10px;
 }
 
 .register a:hover {
