@@ -172,18 +172,24 @@ button:hover {
 .register {
   text-align: center;
   margin-top: 30px;
-  color: rgb(221, 21, 235);
+  color:#b147b1;
   transform: translateY(22px);
+  text-shadow: rgb(5, 184, 233) 3px 0 10px;
 }
 
+a {
+  color:#b147b1;
+}
 .registerhere {
-  color: rgba(46, 9, 9, 0.907);
+  color:#b147b1;
+  text-shadow: rgb(11, 248, 7) 3px 0 10px;
 }
 
 .register a:hover {
   text-align: center;
   margin-top: 30px;
-  color: #b147b1;
+  color:#0fcae3;
+  text-shadow: rgb(2, 228, 236) 3px 0 10px;
 }
 
 /* .parallax {
