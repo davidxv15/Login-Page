@@ -5,6 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Gayathri", sans-serif;
+  color:#b147b1;
 }
 
 body {
@@ -172,25 +173,25 @@ button:hover {
 .register {
   text-align: center;
   margin-top: 30px;
-  color:#b147b1;
+  color: #b147b1;
   transform: translateY(22px);
   text-shadow: rgb(5, 184, 233) 3px 0 10px;
 }
 
 a {
-  color:#b147b1;
+  color: #b147b1;
 }
 
 .registerhere {
-  font-size: 22px;
+  font-size: 20px;
   color:#b147b1;
-  text-shadow:#b147b1 3px 0 10px;
+  text-shadow: #b147b1 3px 0 10px;
 }
 
 .register a:hover {
   text-align: center;
   margin-top: 30px;
-  color:#0fcae3;
+  color: #0fcae3;
   text-shadow: rgb(2, 228, 236) 3px 0 10px;
 }
 
