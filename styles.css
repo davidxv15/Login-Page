@@ -182,10 +182,11 @@ a {
   color: #b147b1;
 }
 
-.registerhere {
-  font-size: 20px;
+.r-here {
   color:#b147b1;
-  text-shadow: #b147b1 3px 0 10px;
+  font-size: 20px;
+  text-decoration-color: #b147b1;
+  text-shadow: #000000 8px 0 10px;
 }
 
 .register a:hover {
