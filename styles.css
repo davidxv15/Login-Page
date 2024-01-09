@@ -5,7 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Gayathri", sans-serif;
-  color:#b147b1;
+  /* color:#b147b1; */
 }
 
 body {
@@ -130,7 +130,7 @@ h2 {
 }
 
 .wrapper a {
-  color: #0fcae3;
+  /* color: #0fcae3; */
   text-decoration: none;
 }
 
@@ -179,14 +179,13 @@ button:hover {
 }
 
 a {
-  color: #b147b1;
+  /* color: #b147b1; */
 }
 
 .r-here {
-  color:#b147b1;
+  color: rgb(220, 131, 14);
   font-size: 20px;
-  text-decoration-color: #b147b1;
-  text-shadow: #000000 8px 0 10px;
+  /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
 }
 
 .register a:hover {
