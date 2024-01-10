@@ -191,7 +191,7 @@ a {
 .register a:hover {
   text-align: center;
   margin-top: 30px;
-  color: #0fcae3;
+  color:antiquewhite;
   text-shadow: rgb(2, 228, 236) 3px 0 10px;
 }
 
