@@ -183,9 +183,9 @@ a {
 }
 
 .r-here {
-  color: rgb(220, 131, 14);
+  color: rgb(255, 255, 255);
   font-size: 20px;
-  /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+  text-shadow:#b147b1
 }
 
 .register a:hover {
