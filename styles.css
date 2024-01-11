@@ -140,12 +140,13 @@ h2 {
 }
 
 button {
-  background: aliceblue;
-  color: #0fcae3;
+  background: rgba(245, 245, 245, 0.402);
+  color: #0c5a64;
+  width: 66%;
   font-weight: 600;
   padding: 0.1em;
   display: table-cell;
-  vertical-align: middle;
+  vertical-align:middle;
   transform: translateY();
   cursor: pointer;
   font-size: 1.5rem;
@@ -185,13 +186,13 @@ a {
 .r-here {
   color: rgb(255, 255, 255);
   font-size: 20px;
-  text-shadow:#b147b1
+  text-shadow: #b147b1;
 }
 
 .register a:hover {
   text-align: center;
   margin-top: 30px;
-  color:antiquewhite;
+  color: antiquewhite;
   text-shadow: rgb(2, 228, 236) 3px 0 10px;
 }
 
