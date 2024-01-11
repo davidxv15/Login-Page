@@ -136,14 +136,14 @@ h2 {
 
 .wrapper a:hover {
   text-decoration: underline;
-  color:antiquewhite;
+  color: antiquewhite;
   text-shadow: rgb(2, 228, 236) 3px 0 10px;
 }
 
 button {
   background: rgba(245, 245, 245, 0.402);
   color: #0c5a64;
-  width: 66%;
+  /* width: 66%; */
   font-weight: 600;
   padding: 0.1em;
   display: table-cell;
@@ -182,7 +182,7 @@ button:hover {
 }
 
 a {
-  color:#0fcae3;
+  color: #0fcae3;
 }
 
 .r-here {
