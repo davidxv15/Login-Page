@@ -150,7 +150,7 @@ button {
   vertical-align: middle;
   align-items: center;
   transform: translateY();
-  cursor:crosshair;
+  cursor: pointer;
   font-size: 1.5rem;
   transition: 0.5s ease;
   border-radius: 8px;
