@@ -149,7 +149,9 @@ button {
   display: table-cell;
   vertical-align: middle;
   align-items: center;
+  justify-content: center;
   transform: translateY();
+  /* transform: translateX(60px); */
   cursor: pointer;
   font-size: 1.5rem;
   transition: 0.5s ease;
