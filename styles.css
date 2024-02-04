@@ -5,6 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Gayathri", sans-serif;
+  /* color:#b147b1; */
 }
 
 body {
@@ -129,23 +130,28 @@ h2 {
 }
 
 .wrapper a {
-  color: rgb(150, 142, 132);
+  /* color: #0fcae3; */
   text-decoration: none;
 }
 
 .wrapper a:hover {
   text-decoration: underline;
-  color: #f27bff;
+  color: antiquewhite;
+  text-shadow: rgb(2, 228, 236) 3px 0 10px;
 }
 
 button {
-  background: #fff;
-  color: #000;
+  background: rgba(245, 245, 245, 0.402);
+  color:antiquewhite;
+  /* width: 66%; */
   font-weight: 600;
   padding: 0.1em;
   display: table-cell;
   vertical-align: middle;
+  align-items: center;
+  justify-content: center;
   transform: translateY();
+  /* transform: translateX(60px); */
   cursor: pointer;
   font-size: 1.5rem;
   transition: 0.5s ease;
@@ -172,14 +178,26 @@ button:hover {
 .register {
   text-align: center;
   margin-top: 30px;
-  color: #fff;
+  color: #0c5a64;
   transform: translateY(22px);
+  text-shadow: rgb(5, 184, 233) 3px 0 10px;
+}
+
+a {
+  color: #0fcae3;
+}
+
+.r-here {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  text-shadow: #b147b1;
 }
 
 .register a:hover {
   text-align: center;
   margin-top: 30px;
-  color: #b147b1;
+  color: antiquewhite;
+  text-shadow: rgb(2, 228, 236) 3px 0 10px;
 }
 
 /* .parallax {
