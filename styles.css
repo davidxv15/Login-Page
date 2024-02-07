@@ -142,7 +142,7 @@ h2 {
 
 button {
   background: rgba(245, 245, 245, 0.402);
-  color:antiquewhite;
+  color: antiquewhite;
   /* width: 66%; */
   font-weight: 600;
   padding: 0.1em;
@@ -166,11 +166,11 @@ button {
 
 .log_in {
   transform: translateY(3px);
-  color:#891087; 
+  color:#bd1c87;
 }
 
 button:hover {
-  color: #fff;
+  color:antiquewhite;
   border-color: #fff;
   background: rgba(255, 255, 255, 0.01);
 }
