@@ -167,6 +167,7 @@ button {
 .log_in {
   transform: translateY(3px);
   /* color:#bd1c87; */
+  text-shadow: rgb(5, 184, 233) 3px 0 10px;
 }
 
 button:hover {
